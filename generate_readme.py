@@ -48,7 +48,7 @@ for line in all_lines:
         paper_class_flag = 1
         paper_class_name = line[3:].strip()
 
-github_root = "https://github.com/Kailianghu/Ad_Papers/"
+github_root = "https://github.com/Kailianghu/Ad_Papers/blob/main/"
 all_dir = os.listdir("./")
 for one_dir in all_dir:
     if os.path.isdir(one_dir) and not one_dir.startswith('.'):
