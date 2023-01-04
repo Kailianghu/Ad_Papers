@@ -45,6 +45,11 @@
 * [[Parameter Server]Parameter Server for Distributed Machine Learning](https://github.com/Kailianghu/Ad_Papers/blob/main/Computational%20Advertising%20Architect/%5BParameter%20Server%5DParameter%20Server%20for%20Distributed%20Machine%20Learning.pdf) <br />
 * [Overlapping Experiment Infrastructure More, Better, Faster Experimentation](https://github.com/Kailianghu/Ad_Papers/blob/main/Computational%20Advertising%20Architect/Overlapping%20Experiment%20Infrastructure%20More%2C%20Better%2C%20Faster%20Experimentation.pdf) <br />
 
+### Sponsored Search
+* [Personalized_click_prediction_in_sponsored_search](https://github.com/Kailianghu/Ad_Papers/blob/main/Sponsored%20Search/Personalized_click_prediction_in_sponsored_search.pdf) <br />
+* [Online Learning from Click Data for Sponsored Search](https://github.com/Kailianghu/Ad_Papers/blob/main/Sponsored%20Search/Online%20Learning%20from%20Click%20Data%20for%20Sponsored%20Search.pdf) <br />
+* [relational_click_prediction_for_sponsored_search](https://github.com/Kailianghu/Ad_Papers/blob/main/Sponsored%20Search/relational_click_prediction_for_sponsored_search.pdf) <br />
+
 ### Exploration and Exploitation
 * [An Empirical Evaluation of Thompson Sampling](https://github.com/Kailianghu/Ad_Papers/blob/main/Exploration%20and%20Exploitation/An%20Empirical%20Evaluation%20of%20Thompson%20Sampling.pdf) <br />
 * [Dynamic Online Pricing with Incomplete Information Using Multi-Armed Bandit Experiments](https://github.com/Kailianghu/Ad_Papers/blob/main/Exploration%20and%20Exploitation/Dynamic%20Online%20Pricing%20with%20Incomplete%20Information%20Using%20Multi-Armed%20Bandit%20Experiments.pdf) <br />
